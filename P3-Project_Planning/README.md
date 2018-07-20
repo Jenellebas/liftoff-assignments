@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 Four Wireframes for MVP:
-- [Home](./landing-page.JPG)
+- [Home](.P3-Project_Planning/landing-page.JPG)
 - [Add](./event-add.JPG)
 - [Detail](./event-detail.JPG)
 - [Edit](./event-edit.JPG)
